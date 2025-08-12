@@ -30,6 +30,7 @@ The goal of this project is to build a full-stack Job Network application that a
 
 ## File Structure
 
+```
 root/
 │
 ├── client/ # React frontend
@@ -82,7 +83,7 @@ root/
 ├── .gitignore
 ├── README.md
 
-
+```
 
 ---
 
